@@ -20,10 +20,6 @@ This project helps manage student records using **Object-Oriented Programming**,
 
 StudentManagementSystem/ ├── Main.java // Entry point, handles user menu ├── Student.java // Student class with properties and methods ├── StudentManager.java // Manages student list and file I/O ├── students.txt // File to store student records (auto-generated)
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Run
@@ -52,9 +48,7 @@ java Main
 ✅ Menu-driven Console Interface
 
 📝 Sample Output
-sql
-Copy
-Edit
+
 ==== Student Management System ====
 1. Add Student
 2. View All Students
